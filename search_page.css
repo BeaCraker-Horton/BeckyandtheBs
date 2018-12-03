@@ -1,0 +1,32 @@
+body {background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
+      background-position: center;
+      background-size: cover;}
+h1 {color: tomato;
+    text-align: center;
+    font-size: 60px;
+    margin: 0px 0px 25px 700px;}
+input {padding: 75px; color: rgba(0,0,0,0)}
+.one {background: url("https://png.pngtree.com/element_origin_min_pic/16/11/07/57b244b075b8f874f272d3e90a802367.jpg");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin: 0px 50px 50px 850px;}
+.three {background: url("https://st2.depositphotos.com/1742172/10197/v/950/depositphotos_101974622-stock-illustration-cartoon-box-of-tissues.jpg");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin: 0px 50px 50px 850px;}
+.two {background: url("https://cdn3.vectorstock.com/i/1000x1000/98/52/waiting-tomato-soup-character-cartoon-vector-21089852.jpg");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
+.four {background: url("https://cdn2.vectorstock.com/i/thumb-large/04/36/medical-plaster-icon-cartoon-vector-13580436.jpg");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
