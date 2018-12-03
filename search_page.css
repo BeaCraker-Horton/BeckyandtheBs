@@ -11,7 +11,12 @@ input {padding: 75px; color: rgba(0,0,0,0)}
       background-size: cover;
       border-radius: 15px;
       margin: 0px 50px 50px 850px;}
-.three {margin: 0px 50px 50px 850px;}
+.three {background: url("https://cdn2.vectorstock.com/i/thumb-large/04/36/medical-plaster-icon-cartoon-vector-13580436.jpg");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin: 0px 50px 50px 850px;}
 .two {background: url("https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/08/carrot-soup.jpg?itok=YQBi8RRK");
       background-position: center;
       background-size: cover;
