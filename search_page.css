@@ -11,13 +11,12 @@ input {padding: 75px; color: rgba(0,0,0,0)}
       background-size: cover;
       border-radius: 15px;
       margin: 0px 50px 50px 850px;}
-.three {background: url("https://pngtree.com/freepng/cartoon-capsule_1382285.html")
-      margin: 0px 50px 50px 850px;
-    background-position: center;
-    background-size: cover;
-    border-radius: 15px;
-    border-color: blue;
-    margin-left: 10px;}
+.three {background: url("https://pngtree.com/freepng/cartoon-capsule_1382285.html");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin: 0px 50px 50px 850px;}
 .two {background: url("http://www.asuntospublicos.org/upload/2018/02/16/free-soup-clipart-pictures-clipartix-soup-bowl-cartoon-l-1adfb894e213b5a1.png");
       background-position: center;
       background-size: cover;
