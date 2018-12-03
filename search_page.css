@@ -1,0 +1,32 @@
+body {background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
+      background-position: center;
+      background-size: cover;}
+h1 {color: tomato;
+    text-align: center;
+    font-size: 60px;
+    margin: 0px 0px 25px 700px;}
+input {padding: 75px; color: rgba(0,0,0,0)}
+.one {background: url("https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2018/04/pill_bottles.jpg?itok=tIZXricK&fc=50,50");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      margin: 0px 50px 50px 850px;}
+.three {background: url("https://pngtree.com/freepng/cartoon-capsule_1382285.html")
+      margin: 0px 50px 50px 850px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    border-color: blue;
+    margin-left: 10px;}
+.two {background: url("http://www.asuntospublicos.org/upload/2018/02/16/free-soup-clipart-pictures-clipartix-soup-bowl-cartoon-l-1adfb894e213b5a1.png");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
+.four {background: url("https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2FKXTCEE%2Fcartoon-box-of-tissues-KXTCEE.jpg&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fstock-photo-cartoon-box-of-tissues-171411030.html&docid=eD1VoRh9bt9aPM&tbnid=dCDUg9ZBZwQQ5M%3A&vet=10ahUKEwistoixtYTfAhWmK8AKHUQsAxsQMwhMKAAwAA..i&w=950&h=1390&itg=1&bih=624&biw=1280&q=cartoon%20box%20of%20tissues&ved=0ahUKEwistoixtYTfAhWmK8AKHUQsAxsQMwhMKAAwAA&iact=mrc&uact=8");
+      background-position: center 1.5px;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
