@@ -1,0 +1,26 @@
+body {background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
+      background-position: center;
+      background-size: cover;}
+h1 {color: tomato;
+    text-align: center;
+    font-size: 60px;
+    margin: 0px 0px 25px 700px;}
+input {padding: 75px; color: rgba(0,0,0,0)}
+.one {background: url("https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2018/04/pill_bottles.jpg?itok=tIZXricK&fc=50,50");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      margin: 0px 50px 50px 850px;}
+.three {margin: 0px 50px 50px 850px;}
+.two {background: url("https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/08/carrot-soup.jpg?itok=YQBi8RRK");
+      background-position: center;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
+.four {background: url("https://happytribeorganics.com/wp-content/uploads/2018/09/WGAC_NewSite_Tissues_1024x1024.jpg");
+      background-position: center 1.5px;
+      background-size: cover;
+      border-radius: 15px;
+      border-color: blue;
+      margin-left: 10px;}
