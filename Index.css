@@ -1,2 +1,8 @@
-body {text-align: center; background-size: cover; background-position: center}
-h1 {color:red;}
+body {background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
+      background-position: center;
+      background-size: cover;}
+h1 {color:red;
+  text-align: center;
+  font-size: 60px;
+  margin: 0px 0px 25px 700px;}
+input {padding: 75px; color: rgba(0,0,0,0)}
