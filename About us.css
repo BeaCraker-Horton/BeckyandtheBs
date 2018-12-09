@@ -28,5 +28,20 @@ p2{
   font-size: 20px;
   margin:10px 15px 0px 800px;
   display:inline-block;
+}
+linkstopages{
+  margin:10px 150px 0px 0px;
+  font-family: serif;
+}
+#Homepage{
+  color: white;
+  margin:10px 15px 1000px 800px;
+  margin-top: 300px;
+  font-size: 25px;
+}
+#Contact{
+  color: white;
+  margin:10px 15px 0px 0px;
+  font-size: 25px;
 
 }
