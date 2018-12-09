@@ -4,6 +4,8 @@
     background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: white;
     font-family: 'Bungee', cursive;
     cursor:pointer;
