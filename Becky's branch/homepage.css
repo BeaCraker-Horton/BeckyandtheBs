@@ -39,11 +39,11 @@ input {
   font-size: 20px;
   width: 400px;
   padding: 12px;
-  margin: 0px 55px 0px 0px;
+  margin: 50px 55px 0px 0px;
 }
 .button {
-  width: 50px;
-  margin: 0px 55px 0px 0px;
+  width: 100px;
+  margin: 0px 55px -50px 0px;
 }
   ul {
       padding: 0px 10px 0px 10px;
