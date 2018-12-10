@@ -15,8 +15,7 @@
 
   h1 {
     font-size: 200px;
-    text-align: center;
-    margin: 30px 0px 0px 600px;
+    margin: 30px 90px 0px 0px;
     font-family: 'Grand Hotel', cursive;
   }
   x {
@@ -28,14 +27,14 @@
   }
   h3 {
     font-size: 20px;
-    margin: 10px 365px 0px 0px;
+    margin: 10px 365px 10px 0px;
     font-family: helvetica;
   }
 input {
     border: 2px white;
     border-radius: 10px;
     width: 50px;
-    margin: 5px 7px 0px 0px;
+    margin: 15px 7px 0px 0px;
     display:inline-block;
   }
 
@@ -55,7 +54,7 @@ input {
 }
   ul {
       padding: 0px 10px 0px 10px;
-      margin: 0px 20px 0px 0px;
+      margin: 0px 50px 0px 0px;
     }
   li {
       display: inline;
@@ -70,18 +69,6 @@ input {
       font-family: serif;
       display: inline-block;
     }
-    #search_page{
-      color: white;
-      margin:300px 100px 1000px 800px;
-      margin-top: 300px;
-      font-size: 25px;
-    }
-    #Contact{
-      color: white;
-      margin:300px 10px 0px -50px;
-      padding-right: 150px;
-      font-size: 25px;
-    }
     .social-icons li img {
       width:40px;
       height:40px;
@@ -91,7 +78,7 @@ input {
     .column {
       float:left;
       width: 2.33%;
-      margin: -70px 0px 20px 0px;
+      margin: -30px 0px 20px 0px;
       margin-right: 50px;
     }
     .row {

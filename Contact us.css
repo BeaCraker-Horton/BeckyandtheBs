@@ -1,39 +1,67 @@
-body{background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
-background-size: cover;
-font-family: 'Bungee', cursive;
-}
-h1{
-  text-align: right;
-  color: white;
-  font-size: 50px;
-  margin:10px 30px 0px 0px;
-}
+
+body {
+    text-align: right;
+    background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Bungee', cursive;
+    cursor:pointer;
+    cursor: text;
+    cursor: auto;
+  }
+
+h1 {
+    font-size: 150px;
+    margin: 20px 160px 0px 0px;
+    font-family: 'Grand Hotel', cursive;
+  }
+  x {
+    color: red;
+  }
 h2{
   text-align: right;
   color: white;
   font-size: 40px;
-  margin: 10px 30px 0px 0px;
+  margin: 10px 200px 0px 0px;
 }
 iframe{
   width: 640px;
   height: 400px;
   margin: 10px 30px 0px 750px;
 }
+ul {
+    padding: 0px 10px 0px 10px;
+    margin: 0px 50px 0px 0px;
+  }
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+a {
+    color: white;
+    font-size: 20px;
+  }
 linkstopages{
-  margin:10px 150px 0px 0px;
-  font-family: serif;
-  display: inline-block;
-}
-#Homepage{
-  color: white;
-  margin:100px 15px 1000px 800px;
-  margin-top: 300px;
-  font-size: 25px;
-}
-#Contact{
-  color: white;
-  margin:100px 15px 0px 0px;
-  padding-left: 25px;
-  font-size: 25px;
-
-}
+    margin:10px 300px 0px 0px;
+    font-family: serif;
+    display: inline-block;
+  }
+.social-icons li img {
+    width:40px;
+    height:40px;
+    margin: 60px 0px 0px 820px;
+    display:inline-grid;
+  }
+.column {
+    float:left;
+    width: 2.33%;
+    margin: -30px 0px 20px 0px;
+    margin-right: 50px;
+  }
+.row {
+    display: flex;
+    margin: 0px 0px 0px 300px;
+  }
