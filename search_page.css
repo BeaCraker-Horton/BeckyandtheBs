@@ -30,3 +30,37 @@ input {padding: 75px; color: rgba(0,0,0,0)}
       border-radius: 15px;
       border-color: blue;
       margin-left: 10px;}
+linkstopages{
+        margin:10px 150px 0px 0px;
+        font-family: serif;
+        display: inline-block;
+      }
+#About{
+      color: white;
+      margin:10px 15px 1000px 800px;
+      margin-top: 300px;
+      font-size: 25px;
+    }
+#Contact{
+      color: white;
+      margin:10px 15px 0px 0px;
+      padding-left: 25px;
+      font-size: 25px;
+
+    }
+.social-icons li img {
+      width:40px;
+      height:40px;
+      margin: 0px 0px 0px 800px;
+      display:inline-grid;
+    }
+.column {
+      float:left;
+      width: 2.33%;
+      margin: -70px 0px 20px 0px;
+      margin-right: 50px;
+    }
+.row {
+      display: flex;
+      margin: 0px 0px 0px 300px;
+    }
