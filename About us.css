@@ -1,26 +1,25 @@
-h1{
-  text-align: right;
-  color: white;
-  font-size: 50px;
-  margin:10px 30px 0px 0px;
-}
-h2{
-  text-align: right;
-  color: white;
-  font-size: 40px;
-  margin: 10px 30px 0px 0px;}
-
 body{
   background: url("https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_main_ISEF_pills.png");
   background-size: cover;
   font-family: 'Bungee', cursive;
-  }
-p1{
   text-align: right;
+  }
+h1{
   color: white;
-  padding-left: 1040px;
-  margin:10px 350px 0px 0px;
-  font-size: 30px;
+  font-size: 100px;
+  margin:10px 150px 0px 0px;
+  font-family: 'Grand Hotel', cursive;}
+x {color: red;}
+h2{
+  color: white;
+  font-size: 40px;
+  margin: 10px 190px 0px 0px;
+  }
+
+p1{
+  color: white;
+  margin:10px 125px 0px 0px;
+  font-size: 25px;
   font-weight: bold;
 }
 p2{
@@ -28,6 +27,7 @@ p2{
   font-size: 20px;
   margin:10px 15px 0px 800px;
   display:inline-block;
+  text-align: justify;
 }
 linkstopages{
   margin:10px 150px 0px 0px;
