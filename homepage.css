@@ -13,9 +13,9 @@
     cursor: auto;
   }
 
-  h1 {
-    font-size: 200px;
-    margin: 30px 90px 0px 0px;
+  y {
+    margin: 20px 160px 0px 0px;
+    font-size: 150px;
     font-family: 'Grand Hotel', cursive;
   }
   x {
@@ -63,6 +63,7 @@ input {
   a {
       color: white;
       font-size: 20px;
+      text-decoration: none;
     }
     linkstopages{
       margin:10px 300px 0px 0px;

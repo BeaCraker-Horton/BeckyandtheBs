@@ -12,13 +12,12 @@ body {
     cursor: text;
     cursor: auto;
   }
-
-h1 {
-    font-size: 150px;
-    margin: 20px 160px 0px 0px;
-    font-family: 'Grand Hotel', cursive;
-  }
-  x {
+y {
+  margin: 20px 160px 0px 0px;
+  font-size: 150px;
+  font-family: 'Grand Hotel', cursive;
+}
+x {
     color: red;
   }
 h2{
@@ -43,6 +42,7 @@ li {
 a {
     color: white;
     font-size: 20px;
+    text-decoration: none;
   }
 linkstopages{
     margin:10px 300px 0px 0px;

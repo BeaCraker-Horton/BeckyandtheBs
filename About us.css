@@ -20,12 +20,13 @@ li {
 a {
   color: white;
   font-size: 20px;
+  text-decoration: none;
 }
-h1{
-  color: white;
-  font-size: 175px;
-  margin:10px 130px 0px 0px;
-  font-family: 'Grand Hotel', cursive;}
+y {
+  margin: 20px 160px 0px 0px;
+  font-size: 150px;
+  font-family: 'Grand Hotel', cursive;
+}
 x {color: red;}
 h2{
   color: white;
