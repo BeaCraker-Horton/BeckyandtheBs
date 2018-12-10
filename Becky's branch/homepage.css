@@ -37,7 +37,6 @@ input {
     width: 50px;
     margin: 5px 7px 0px 0px;
     display:inline-block;
-    vertical-align:top;
   }
 
 .email {
@@ -47,9 +46,12 @@ input {
   height: 45px;
 }
 .button {
-  width: 55px;
-  height: 55px;
-  padding: 0px;
+  padding: 20px 30px;
+  background: url("https://www.crwflags.com/fotw/images/i/icrc-c.gif");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  margin: 1000px 0px -100px 0px;
 }
   ul {
       padding: 0px 10px 0px 10px;
