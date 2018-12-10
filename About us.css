@@ -4,6 +4,18 @@ body{
   font-family: 'Bungee', cursive;
   text-align: right;
   }
+ul {
+  padding: 0px 10px 0px 10px;
+  margin: 0px 20px 0px 0px;
+  }
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  }
+a {
+  color: white;
+  font-size: 20px;
+}
 h1{
   color: white;
   font-size: 100px;
@@ -30,22 +42,9 @@ p2{
   text-align: justify;
 }
 linkstopages{
-  margin:10px 150px 0px 0px;
+  margin:50px 150px 0px 0px;
   font-family: serif;
   display: inline-block;
-}
-#Homepage{
-  color: white;
-  margin:10px 15px 1000px 800px;
-  margin-top: 300px;
-  font-size: 25px;
-}
-#Contact{
-  color: white;
-  margin:10px 15px 0px 0px;
-  padding-left: 25px;
-  font-size: 25px;
-
 }
 .social-icons li img {
   width:40px;
@@ -56,7 +55,7 @@ linkstopages{
 .column {
   float:left;
   width: 2.33%;
-  margin: -70px 0px 20px 0px;
+  margin: 0px 0px 20px 0px;
   margin-right: 50px;
 }
 .row {
